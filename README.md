@@ -84,4 +84,16 @@ https://docs.google.com/presentation/d/e/2PACX-1vQyuj7ZQtyr1T0_BIAwdIAXTGlAyhfa-
 ## File Program
 File program dapat di download memlalui [Releases](https://github.com/bagussatoto/Sistem-Perpustakaan/releases/tag/v.1)
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
+
+
+## Kritik Dan Saran 
+Anda bisa kirim Email :
+
+| **Email**                           |
+|-------------------------------------|
+| bagusbudi1308@gmail.com             |
+| bagusbudi1308@students.amikom.ac.id |
