@@ -8,6 +8,36 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
+## Fitur didalam Aplikasi
+
+1. Save (Menyimpan)
+
+<img width="500" alt="1" src="https://user-images.githubusercontent.com/87259393/218304162-c9d5ada7-4190-4f80-9aa1-9b8f6abe2903.png">
+
+Fitur save ini digunakan untuk menyimpan data yang telah diisi ke dalam database yang
+kemudian muncul di kolom data, data yang muncul akan sesuai dengan apa yang user isikan.
+
+
+2. Update (memperbarui)
+
+<img width="500" alt="2" src="https://user-images.githubusercontent.com/87259393/218304177-446a03a4-4f2a-4d94-b0fb-36003c84681c.png">
+
+
+Fitur update ini digunakan untuk memperbarui data yang telah diisi sebelum, jika user ingin
+data nya di perbarui atau ada kesalahan saat mengisikan data bisa menggunakan fitur ini.
+
+
+3. Delete (hapus)
+
+<img width="500" alt="3" src="https://user-images.githubusercontent.com/87259393/218304184-c20a9201-834e-4f69-8af0-db22c2a58228.png">
+
+Fitur delete ini digunakan untuk menghapus data pada kolom yang sudah diisi, jika data yang
+diinputkan salah atau tidak digunakan lagi maka lebih baik data tersebut di delete.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
 
 ## Instruksi penggunaan :
 1. Persiapkan xampp beserta data di foldernya agar bisa mengakses aplikasi dan terhubung ke
